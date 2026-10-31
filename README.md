@@ -2,6 +2,8 @@
 
 Compiled apps for **Age of the Gods: Speartip**, a tabletop battle game with practice, hotseat and online play.
 
+![Speartip main screen with army selection, battlefield previews and play options](images/main-screen.png)
+
 ## Download version 0.1
 
 Get the app for your computer from [release 0.1](https://github.com/HeyitsTayters/speartip-releases/releases/tag/0.1):
