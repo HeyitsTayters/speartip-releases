@@ -10,8 +10,8 @@ Get the app for your computer from [release 0.1](https://github.com/HeyitsTayter
 
 | Platform | Download |
 | --- | --- |
-| Windows (64-bit Intel/AMD) | Upload pending |
-| Linux (64-bit Intel/AMD) | Upload pending |
+| Windows (64-bit Intel/AMD) | [Windows ZIP](https://github.com/HeyitsTayters/speartip-releases/releases/download/0.1/Speartip-0.1-windows-x86_64.zip) |
+| Linux (64-bit Intel/AMD) | [Linux ZIP](https://github.com/HeyitsTayters/speartip-releases/releases/download/0.1/Speartip-0.1-linux-x86_64.zip) |
 | macOS (Apple Silicon and Intel) | [macOS ZIP](https://github.com/HeyitsTayters/speartip-releases/releases/download/0.1/Speartip-0.1-macos-universal.zip) |
 
 Extract the ZIP before launching. On Windows, run `Speartip.exe`. On Linux, run `Speartip.x86_64` (if needed, enable executable permission with `chmod +x Speartip.x86_64`). On macOS, move `Speartip.app` to Applications and open it.
